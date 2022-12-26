@@ -1,0 +1,25 @@
+.class1,
+.class3 {
+    color: black;
+    background-color: pink;
+    font-size: 22px;
+}
+
+#ID1 {
+    color: blue;
+    font-size: 44px;
+    font-weight: 600;
+}
+
+.class2 {
+    color: black;
+    background-color: pink;
+    font-size: 34px;
+}
+
+#ID2 {
+    color: black;
+    background-color: green;
+    font-weight: bold;
+    font-size: 34px;
+}
