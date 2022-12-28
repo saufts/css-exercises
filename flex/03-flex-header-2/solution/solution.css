@@ -15,10 +15,10 @@ body {
 }
 
 .profile-image {
-  background: rebeccapurple;
+  background: red;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
   border-radius: 50%;
-  width: 48px;
+  width: 998px;
   height:  48px;
 }
 
